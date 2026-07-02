@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+storage/uploads/*
+storage/outputs/*
+storage/logs/*
+!storage/uploads/.gitkeep
+!storage/outputs/.gitkeep
+!storage/logs/.gitkeep
+
+renderer/soundfonts/*.sf2
+
+.env
+*.log
